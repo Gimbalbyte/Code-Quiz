@@ -11,4 +11,4 @@ Image
     <img src="images/screenshot.jpg>
 
 Link
-    [Code Quiz]()
+    [Code Quiz](https://gimbalbyte.github.io/Code-Quiz/)
